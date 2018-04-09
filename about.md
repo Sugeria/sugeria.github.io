@@ -2,13 +2,22 @@
 layout: page
 title: About
 permalink: /about/
+published: true
 ---
 
 Some information about you!
 
-### More Information
+### Name
 
-A place to include any other types of information that you'd like to include about yourself.
+Tiantian Wang
+
+### Affiliation
+
+Nanjing University State Key Laboratory for Novel Software Technology
+
+### Career Status
+
+Grad Student
 
 ### Contact me
 
